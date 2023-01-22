@@ -25,11 +25,10 @@
 npm install
 npm run build
 ```
-### Alternatively, use:
+### To run the app without building it, use:
 ```
 npm run dev
 ```
-### to run the app without building it.
 
 # //TODO:
 
