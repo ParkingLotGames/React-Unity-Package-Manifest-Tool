@@ -3,26 +3,26 @@
 
 ![Issues](https://img.shields.io/github/issues-raw/ParkingLotGames/React-Unity-Package-Manifest-Tool?style=plastic) ![Pull requests](https://img.shields.io/github/issues-pr-raw/ParkingLotGames/React-Unity-Package-Manifest-Tool?style=plastic)
 
-#### React port of Unity Package Manifest Tool using Vite 2.9.5, TailwindCSS + PostCSS & Autoprefixer, React-Icons and JSON-BigInt
+## React port of Unity Package Manifest Tool using Vite 2.9.5, TailwindCSS + PostCSS & Autoprefixer, React-Icons and JSON-BigInt
 
 # Building
 
-### Prerequisites:
+## Prerequisites:
 
-##### - VSCode
+#### - VSCode
 
-### Build process:
+## Build process:
 ```
 npm install
 npm run build
 ```
-### Alternatively, use:
+## Alternatively, use:
 ```
 npm run dev
 ```
-### to run the app without building it.
+## to run the app without building it.
 
 # //TODO:
 
-#### Write JSON Deserialization and Serialization functionality
+### Write JSON Deserialization and Serialization functionality
 
