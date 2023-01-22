@@ -5,6 +5,7 @@
 
 #### Full-featured React port of Unity Package Manifest Tool.
 ### Made with:
+- React 18
 - Vite 2.9.5
 - TailwindCSS 
 - PostCSS 
