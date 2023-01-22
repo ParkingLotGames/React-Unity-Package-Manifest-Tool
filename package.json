@@ -1,6 +1,6 @@
 {
   "name": "react-unity-package-manifest-tool",
-  "private": true,
+  "private": false,
   "version": "0.0.1",
   "scripts": {
     "dev": "vite",
