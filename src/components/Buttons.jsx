@@ -3,7 +3,7 @@ import { AiFillFolderOpen } from 'react-icons/ai'
 
 export const OpenFileButton = () => {
     return (
-        <div className='border-[1px] border-gray-400 rounded-sm hover:bg-gray-600 active:bg-gray-700 bg-gray-500 h-12 w-12 md:w-5 md:h-5 text-center text-white align-middle grid place-items-center'>
+        <button className='border-[1px] border-gray-400 rounded-sm hover:bg-gray-600 active:bg-gray-700 bg-gray-500 h-12 w-12 md:w-5 md:h-5 text-center text-white align-middle grid place-items-center'>
             <div className='hidden md:flex'>
                 <span className='w-[2px] h-[2px] mx-[1px] bg-white' />
                 <span className='w-[2px] h-[2px] mx-[1px] bg-white' />
@@ -12,46 +12,46 @@ export const OpenFileButton = () => {
             <div className='md:hidden'>
                 <AiFillFolderOpen size={32}/>
             </div>
-        </div>
+        </button>
     )
 }
 
 export const SaveFileButton = () => {
     return (
-        <div className='border-[1px] border-gray-400 rounded-sm hover:bg-gray-600 active:bg-gray-700 bg-gray-500 h-6 text-center text-white align-middle grid place-items-center my-1'>
+        <button className='border-[1px] border-gray-400 rounded-sm hover:bg-gray-600 active:bg-gray-700 bg-gray-500 h-6 text-center text-white align-middle grid place-items-center my-1 px-2 ml-auto'>
             Save package.json
-        </div>
+        </button>
     )
 }
 
 export const AddDependencyButton = () => {
     return (
-        <div className='border-[1px] border-gray-400 rounded-sm hover:bg-gray-600 active:bg-gray-700 bg-gray-500 h-6 text-center text-white align-middle grid place-items-center my-1'>
+        <button className='border-[1px] border-gray-400 rounded-sm hover:bg-gray-600 active:bg-gray-700 bg-gray-500 h-6 text-center text-white align-middle grid place-items-center my-1 px-2 ml-auto'>
             Add Dependency
-        </div>
+        </button>
     )
 }
 
 export const RemoveDependencyButton = () => {
     return (
-        <div className='border-[1px] border-gray-400 rounded-sm hover:bg-gray-600 active:bg-gray-700 bg-gray-500 h-6 text-center text-white align-middle grid place-items-center my-1'>
+        <button className='border-[1px] border-gray-400 rounded-sm hover:bg-gray-600 active:bg-gray-700 bg-gray-500 h-6 text-center text-white align-middle grid place-items-center my-1 px-2 ml-auto'>
             Remove
-        </div>
+        </button>
     )
 }
 
 export const AddKeywordButton = () => {
     return (
-        <div className='border-[1px] border-gray-400 rounded-sm hover:bg-gray-600 active:bg-gray-700 bg-gray-500 h-6 text-center text-white align-middle grid place-items-center my-1'>
+        <button className='border-[1px] border-gray-400 rounded-sm hover:bg-gray-600 active:bg-gray-700 bg-gray-500 h-6 text-center text-white align-middle grid place-items-center my-1 px-2 ml-auto'>
             Add Keyword
-        </div>
+        </button>
     )
 }
 
 export const RemoveKeywordButton = () => {
     return (
-        <div className='border-[1px] border-gray-400 rounded-sm hover:bg-gray-600 active:bg-gray-700 bg-gray-500 h-6 text-center text-white align-middle grid place-items-center my-1'>
+        <button className='border-[1px] border-gray-400 rounded-sm hover:bg-gray-600 active:bg-gray-700 bg-gray-500 h-6 text-center text-white align-middle grid place-items-center my-1'>
             Remove
-        </div>
+        </button>
     )
 }
