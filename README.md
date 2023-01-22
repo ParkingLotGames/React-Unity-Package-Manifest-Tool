@@ -5,6 +5,22 @@
 
 #### React port of Unity Package Manifest Tool using Vite 2.9.5, TailwindCSS + PostCSS & Autoprefixer, React-Icons and JSON-BigInt
 
+# Building
+
+### Prerequisites 
+
+##### VSCode
+
+```
+npm install
+npm run build
+```
+alternatively, use
+```
+npm run dev
+```
+to run the app without building it.
+
 # //TODO:
 
 #### Write JSON Deserialization and Serialization functionality
