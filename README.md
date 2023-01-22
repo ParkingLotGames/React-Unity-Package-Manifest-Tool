@@ -3,7 +3,14 @@
 
 ![Issues](https://img.shields.io/github/issues-raw/ParkingLotGames/React-Unity-Package-Manifest-Tool?style=plastic) ![Pull requests](https://img.shields.io/github/issues-pr-raw/ParkingLotGames/React-Unity-Package-Manifest-Tool?style=plastic)
 
-## React port of Unity Package Manifest Tool using Vite 2.9.5, TailwindCSS + PostCSS & Autoprefixer, React-Icons and JSON-BigInt
+### Full-featured React port of Unity Package Manifest Tool.
+## Made with:
+- Vite 2.9.5
+- TailwindCSS 
+- PostCSS 
+- Autoprefixer
+- React-Icons 
+- JSON-BigInt
 
 # Building
 
