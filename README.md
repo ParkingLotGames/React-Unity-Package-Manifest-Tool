@@ -17,6 +17,7 @@
 ### Prerequisites:
 
 - VSCode
+- Nodejs 16 LTS or higher
 
 ### Build process:
 ```
