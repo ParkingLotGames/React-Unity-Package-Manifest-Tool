@@ -7,19 +7,20 @@
 
 # Building
 
-### Prerequisites 
+### Prerequisites:
 
-##### VSCode
+##### - VSCode
 
+### Build process:
 ```
 npm install
 npm run build
 ```
-alternatively, use
+### Alternatively, use:
 ```
 npm run dev
 ```
-to run the app without building it.
+### to run the app without building it.
 
 # //TODO:
 
