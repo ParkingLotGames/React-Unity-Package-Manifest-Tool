@@ -3,7 +3,7 @@
 
 ![Issues](https://img.shields.io/github/issues-raw/ParkingLotGames/React-Unity-Package-Manifest-Tool?style=plastic) ![Pull requests](https://img.shields.io/github/issues-pr-raw/ParkingLotGames/React-Unity-Package-Manifest-Tool?style=plastic)
 
-#### Full-featured React port of Unity Package Manifest Tool.
+#### Full-featured React port of [Unity Package Manifest Tool](https://github.com/ParkingLotGames/React-Unity-Package-Manifest-Tool/edit/main/README.md).
 ### Made with:
 - React 18
 - Vite 2.9.5
